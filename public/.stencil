@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "http://citymedrx.redstaging.com/",
+  "accessToken": "",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
